@@ -5,3 +5,5 @@ CI/CD automates deployment
 Docker is used in DevOps
 
 Kubernetes manages containers
+
+Monitoring improves reliability
