@@ -1,3 +1,6 @@
 DevOps improves collaboration
 
 CI/CD automates deployment
+
+Docker is used in DevOps
+
