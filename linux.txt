@@ -3,3 +3,5 @@ Linux is open source
 Linux supports multitasking
 
 Linux is secure
+
+Linux uses shell commands
