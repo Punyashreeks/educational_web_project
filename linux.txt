@@ -5,3 +5,5 @@ Linux supports multitasking
 Linux is secure
 
 Linux uses shell commands
+
+Linux is used on servers
