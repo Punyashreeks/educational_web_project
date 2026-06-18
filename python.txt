@@ -1,1 +1,11 @@
 Python is easy to learn
+
+Python supports machine learning
+
+Python supports web development
+
+Python is used in automation
+
+Python supports AI applications
+
+Python is popular in data science
