@@ -7,3 +7,5 @@ Linux is secure
 Linux uses shell commands
 
 Linux is used on servers
+
+Linux has multiple distributions
