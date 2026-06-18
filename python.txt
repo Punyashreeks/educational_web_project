@@ -1,3 +1,5 @@
 Python is easy to learn
 
 Python supports machine learning
+
+Python supports web development
