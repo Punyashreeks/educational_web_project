@@ -1,5 +1,6 @@
 Python is easy to learn
 
+<<<<<<< HEAD
 Python supports machine learning
 
 Python supports web development
@@ -9,3 +10,6 @@ Python is used in automation
 Python supports AI applications
 
 Python is popular in data science
+=======
+Python supports cybersecurity
+>>>>>>> c48d6716bfc5ce543f435f0da389b257c520df63
