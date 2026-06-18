@@ -1,1 +1,3 @@
 DevOps improves collaboration
+
+CI/CD automates deployment
