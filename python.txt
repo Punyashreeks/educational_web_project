@@ -5,3 +5,5 @@ Python supports machine learning
 Python supports web development
 
 Python is used in automation
+
+Python supports AI applications
